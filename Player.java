@@ -1,7 +1,4 @@
-/**
- * Enumeration for the players move
- */
-
+// Enumeration for the players' moves
 public enum Player {
-	Empty, Cross, Nought
+    Empty, Cross, Nought
 }
